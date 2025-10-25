@@ -32,6 +32,8 @@ use commands::*;
 mod status_map;
 mod server_space;
 use server_space::*;
+// mod weighted_space;
+// use weighted_space::*;
 use mork::{Space, OwnedExpr};
 
 mod resource_store;
